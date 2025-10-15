@@ -41,3 +41,5 @@ Research License - See LICENSE file for details.
 # PR Merge: 2025-10-15 - refactor/merge-3391
 
 # PR Merge: 2025-10-15 - enhancement/merge-8246
+
+# PR Merge: 2025-10-15 - docs/merge-7295
